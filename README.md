@@ -14,7 +14,6 @@ It simulates the end-to-end logistics workflow — from package data input, item
 - 📦 **Package Input Module**: Enter and manage package data.
 - ⚖️ **Item Classification**: Classify goods based on weight and type.
 - 🛣️ **Route Planning**: Generate optimized delivery routes.
-- 🤖 **Forward-Chaining Inference**: AI-based decision support system.
 - 💻 **Desktop Application**: Windows executable (**SIMBA.exe**) for offline usage.
 
 ---
@@ -22,8 +21,6 @@ It simulates the end-to-end logistics workflow — from package data input, item
 ## 🛠 Tech Stack
 
 - **Unity (C#)** — Game engine & logic
-- **React.js + Tailwind CSS** — Landing page & download portal
-- **Vercel** — Hosting & deployment of landing page
 
 ---
 
