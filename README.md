@@ -38,24 +38,6 @@ It simulates the end-to-end logistics workflow — from package data input, item
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a new branch
-3. Submit a pull request
-
-Please follow the project structure and coding standards.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See `LICENSE` for details.
-
----
-
 ## 📞 Contact
 
 **Developer / Team:** [Al Novianti Ramadhani Sulaksono]  
