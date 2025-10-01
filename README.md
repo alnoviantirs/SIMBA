@@ -1,7 +1,7 @@
 # SIMBA (Simulasi Pengiriman Barang)
 
 🚚 **SIMBA** is an **interactive logistics training simulator** built with **Unity (C#)** and designed with a **gamification approach**.  
-It simulates the end-to-end logistics workflow — from package data input, item classification, to delivery route planning — while integrating a **forward-chaining inference system** to support decision-making.
+It simulates the end-to-end logistics workflow from package data input, item classification, to delivery route planning while integrating a **forward-chaining inference system** to support decision-making.
 
 🔗 **Landing Page & Download:** [SIMBA Web](https://simbaweb.vercel.app/)  
 💾 **Download:** **SIMBA.exe** available on the landing page.
